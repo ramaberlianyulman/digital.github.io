@@ -1,0 +1,126 @@
+<xml>
+  <navigation type="customtabs" backgroundColor="#F9F7F7" backgroundImage="" contentOverlap="" itemsPosition="" textStyle="0" textSize="10" textFont="" iosStyleNavigation="">
+    <items>
+      <item icon="homeiphone.png" text="Home" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="Info.png" text="about" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="contactiphone.png" text="contact" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+      <item icon="shareiphon.png" text="share" textColor="" selectedTextColor="" selectedIcon="" backgroundImage="" selectedBackgroundImage="" backgroundColor="" selectedBackgroundColor="" />
+    </items>
+  </navigation>
+  <targetplatform simulator="Nexus5">Android</targetplatform>
+  <template price="199.99" id="BlankTemplate777" scaleWebPagesToBaseResolution="false" topadtype="admob" bottomadtype="none" globalLogo="" isUniversalApp="false" />
+  <prop id="appname" title="App Name">kaidahKitabKuning</prop>
+  <prop id="tab1text" title="Tab1 Text">tab1</prop>
+  <prop id="tab1icon" title="Tab1 Icon">cover.png</prop>
+  <prop id="tab2text" title="Tab2 Text">tab2</prop>
+  <prop id="tab2icon" title="Tab2 Icon">index.png</prop>
+  <prop id="tab3text" title="Tab3 Text">tab3</prop>
+  <prop id="tab3icon" title="Tab3 Icon">content.png</prop>
+  <prop id="tab4text" title="Tab4 Text">tab4</prop>
+  <prop id="tab4icon" title="Tab4 Icon">coffee.png</prop>
+  <planname>Basic</planname>
+  <page id="tab2.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" hideLoadingAnimation="false" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="tab3.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" hideLoadingAnimation="false" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="tab4.html" type="html" kind="html" transition="" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" hideLoadingAnimation="false" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="facebook.html" type="mobilefacebook" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="" logo="" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="linkedin.html" type="mobilelinkedin" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="twitter.html" type="mobiletwitter" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="" logo="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" />
+  <page id="tab1.html" type="html" slidepageid="none" slidetransition="" hasreviewhtmlkey="no" hasfields="no" kind="html" title="" logo="" shownavbar="yes" openlinksonsametabview="no" topadtype="inherited" bottomadtype="inherited" zoomEnabled="false" dynamicdata="false" jsonurl="" hideLoadingAnimation="false" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <hostedresources>
+  </hostedresources>
+  <page id="00-muqadimah.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" interstitialadview="fullscreen" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="01-thoharoh.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="02-sholat.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="03-jenazah.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" interstitialadview="fullscreen" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="04-zakat.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="05-puasa.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" interstitialadview="fullscreen" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="06-haji.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="about.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="abuSyuja.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" interstitialadview="fullscreen" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="alfiyah.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="alhikam.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="aqidatulAwam.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" interstitialadview="fullscreen" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="AthfalWalGhilmanAlJamzuuriy.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="fathulqorib.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="JawahirulKalamiyah.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" interstitialadview="fullscreen" kind="html" shownavbar="yes" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="jurumiyah.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" hideLoadingAnimation="false" kind="html" />
+  <page id="kaidah.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" />
+  <page id="KITABTIJANADDARORI.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="admob" interstitialadview="fullscreen" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" hideLoadingAnimation="false" kind="html" />
+  <page id="MatanAbuSyuja.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="admob" interstitialadview="fullscreen" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" hideLoadingAnimation="false" kind="html" />
+  <page id="nadomimrity.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" hideLoadingAnimation="false" kind="html" />
+  <page id="qoshidahBurdah.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" hideLoadingAnimation="false" kind="html" />
+  <page id="qothrulghoits.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="admob" interstitialadview="fullscreen" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" hideLoadingAnimation="false" kind="html" />
+  <page id="qurrotuluyun.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" />
+  <page id="riyadhus.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" />
+  <page id="safinah.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="none" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" />
+  <page id="talim_muta_alim.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" hideLoadingAnimation="false" kind="html" />
+  <page id="terjemahwahiyyatulmustofa.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" interstitialadtype="admob" interstitialadview="fullscreen" transitionsound="" hidetabbaratpush="no" zoomEnabled="true" hideLoadingAnimation="false" kind="html" />
+  <restrictedaccess>
+    <feature id="announcements" enabled="true" />
+    <feature id="calendar" enabled="true" />
+    <feature id="coupon" enabled="true" />
+    <feature id="geofences" enabled="true" />
+    <feature id="loyalty" enabled="true" />
+    <feature id="map" enabled="true" />
+    <feature id="productorder" enabled="true" />
+    <feature id="pushnotifications" enabled="true" />
+    <feature id="Booking" enabled="true" />
+  </restrictedaccess>
+  <rateapp appleid="" rateatlaunch="no" rateatrelaunch="no" message="" cancelmessage="" remindmessage="" actionmessage="" />
+  <ads allowUsingAdvertisingId="false" />
+  <admobpublisher id="ca-app-pub-9808654184708285/8384256064" interstitialUnitId="ca-app-pub-9808654184708285/9860989263" />
+  <doubleclickpublisher unitId="" />
+  <pollfish apiKey="" padding="0" position="na" />
+  <revmobappid id="-" />
+  <scads refreshRate="30" />
+  <googleanalyticsid id="" />
+  <localizablelanguage value="en" />
+  <paypalappid id="" />
+  <fbapp apikey="482592868748461" />
+  <androidAppLicensing enabled="false" publicKey="" />
+  <apkExpansionFiles enabled="false" />
+  <androidInAppBilling enabled="false" />
+  <android installLocation="auto" />
+  <pdftron licenseKey="" />
+  <webView bouncesEnabled="false" hideLoadingAnimation="false" externalSiteZoomEnabled="false" />
+  <sharepointclient url="" username="" password="" />
+  <appstorelink>
+  </appstorelink>
+  <googleMaps androidApiV2Key="" />
+  <baiduMaps baiduMapsApiKeyAndroid="" baiduMapsApiKeyiOS="" />
+  <webapp statusBarStyle="default" iconsStyle="precomposed" offlineModeEnabled="false" inAppLinks="false" />
+  <locationServices startupAuthorizationType="auto">
+    <inUseDescription>
+    </inUseDescription>
+    <alwaysDescription>
+    </alwaysDescription>
+  </locationServices>
+  <inAppSettings />
+  <airpush appId="" apiKey="" interstitialAdType="" />
+  <rotationapp>false</rotationapp>
+  <androidC2DM enabled="false" altEnabled="false" />
+  <androidpermissions>
+    <permission name="android.permission.INTERNET" enabled="true" />
+    <permission name="android.permission.ACCESS_COARSE_LOCATION" enabled="true" />
+    <permission name="android.permission.ACCESS_FINE_LOCATION" enabled="true" />
+    <permission name="android.permission.WRITE_EXTERNAL_STORAGE" enabled="true" />
+    <permission name="android.permission.ACCESS_NETWORK_STATE" enabled="true" />
+    <permission name="android.permission.READ_PHONE_STATE" enabled="true" />
+    <permission name="android.permission.RECORD_AUDIO" enabled="true" />
+    <permission name="android.permission.CAMERA" enabled="true" />
+    <permission name="android.permission.VIBRATE" enabled="true" />
+    <permission name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" enabled="true" />
+    <permission name="android.permission.RECEIVE_SMS" enabled="false" />
+    <permission name="android.permission.RECORD_VIDEO" enabled="false" />
+    <permission name="android.permission.MODIFY_AUDIO_SETTINGS" enabled="false" />
+    <permission name="android.permission.READ_CONTACTS" enabled="false" />
+    <permission name="android.permission.WRITE_CONTACTS" enabled="true" />
+    <permission name="android.permission.GET_ACCOUNTS" enabled="false" />
+    <permission name="android.permission.BROADCAST_STICKY" enabled="false" />
+  </androidpermissions>
+  <androidversion>2.17</androidversion>
+  <androidversioncode>2</androidversioncode>
+  <androidbundlename>gudev.kajian.kitabkuningdanterjemahan</androidbundlename>
+  <androidshortappname>Kitab Kuning dan Terjemahan Terlengkap</androidshortappname>
+  <syncenabled>true</syncenabled>
+</xml>
